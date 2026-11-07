@@ -14,7 +14,8 @@ Unofficial PixelOS build for Redmi 12C / POCO C55 (`earth`).
 
 ## Downloads
 
-**OneDrive:** https://1drv.ms/f/c/0abcf4231336e591/IgC7h46Bh-g5ToGCRnIu6NpoAXIvdtfuMHrSbxHb3fYSyjw
+- **Google Drive:** https://drive.google.com/drive/folders/16pkuUSpNuZtrO9Tg4Ww1q-_qFT6oUBv6
+- **OneDrive:** https://1drv.ms/f/c/0abcf4231336e591/IgC7h46Bh-g5ToGCRnIu6NpoAXIvdtfuMHrSbxHb3fYSyjw
 
 Available files:
 - PixelOS_earth-17.0-20261107-UNOFFICIAL.zip
