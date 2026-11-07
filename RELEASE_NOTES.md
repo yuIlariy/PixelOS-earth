@@ -12,6 +12,14 @@ Unofficial PixelOS build for Redmi 12C / POCO C55 (`earth`).
 - **Initial Build Date:** 6 November 2026
 - **Build Date:** 7 November 2026
 
+## Downloads
+
+**OneDrive:** https://1drv.ms/f/c/0abcf4231336e591/IgC7h46Bh-g5ToGCRnIu6NpoAXIvdtfuMHrSbxHb3fYSyjw
+
+Available files:
+- PixelOS_earth-17.0-20261107-UNOFFICIAL.zip
+- boot.img
+
 ## Credits
 
 - **Surblazer** — Device trees.
